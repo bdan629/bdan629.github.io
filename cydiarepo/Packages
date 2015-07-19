@@ -11,6 +11,7 @@ MD5sum: 53bd7b78df9040136bfee3fd2207e908
 Description: An awesome MobileSubstrate tweak!
 Name: Deezer Unlimited
 Author: anon
+Depiction: http://bdan629.github.io/cydiarepo/depiction.php
 
 Package: com.anon.gamepassunlock
 Version: 0.0.1-1
@@ -25,6 +26,7 @@ MD5sum: 60269728262d0e9d92a4e0103247d3dd
 Description: An awesome MobileSubstrate tweak!
 Name: GamePassUnlock
 Author: anon
+Depiction: http://bdan629.github.io/cydiarepo/depiction.php
 
 Package: com.anonymous.songzaunlimited
 Version: 0.0.1-3
@@ -39,4 +41,5 @@ MD5sum: bc2cee29ecdeb3aa47ac099684b288c5
 Description: A tweak to unlock the full potential of Songza!
 Name: Songza Unlimited
 Author: Anonymous
+Depiction: http://bdan629.github.io/cydiarepo/depiction.php
 
