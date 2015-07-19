@@ -93,6 +93,7 @@
 		} else {
 				echo('<div id="div"><!-- div that js modifies -->
 					<form id="form">
+
 						<panel class="auth">
 							<label class="ppp">Password Protected Package</label>
 							<fieldset class="half"><a><div><div><label><input type="text" name="username" placeholder="Username"/></label></div></div></a></fieldset>
@@ -100,6 +101,7 @@
 							<fieldset class="auth"><a href target="_self"><div><div><label><input type="submit" name="submit" role="button" value="Authenticate" /></label></div></div></a></fieldset>
 							<p>If you don&#39;t have access, but you do want to help with testing this package, please email me at email@example.com.</p>
 						</panel>
+
 					</form>
 					</div>');
 		}
