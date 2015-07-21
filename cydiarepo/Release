@@ -1,8 +1,0 @@
-Origin: iostweakerrepo
-Label: IOShackersrepo
-Suite: stable
-Version: 1.0
-Codename: iostweakerrepo9
-Architectures: iphoneos-arm
-Components: main
-Description: iostweaker's Cydia Repository
